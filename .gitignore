@@ -5,6 +5,7 @@ __pycache__/
 
 # self files
 *.txt
+*.DS_Store
 
 # C extensions
 *.so
